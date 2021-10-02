@@ -23,4 +23,4 @@ print(shop_items.get(product.lower(), -1))
 #     print(-1)
 
 
-# print(product)
+
